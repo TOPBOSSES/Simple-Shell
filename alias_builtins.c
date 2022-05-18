@@ -1,6 +1,6 @@
 /*
  * File: alias_builtins.c
- * Auth: Nobert & Divine
+ * Auth: Eze Ezekiel & Macaulay Nmaram
  */
 #include "shell.h"
 
